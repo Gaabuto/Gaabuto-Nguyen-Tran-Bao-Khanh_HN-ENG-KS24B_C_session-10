@@ -14,5 +14,7 @@ int main(){
 	}
 		if (count > 0){
 		printf("so nay co o trong mang va o vi tri thu %d", ar[i]);
-}
+}else{
+		printf("so nay khong o trong mang");
+		}
 }
